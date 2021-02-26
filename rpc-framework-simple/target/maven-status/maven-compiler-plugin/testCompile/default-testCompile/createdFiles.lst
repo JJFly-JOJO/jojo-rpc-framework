@@ -1,0 +1,5 @@
+github\jojo\test\api\GetName.class
+github\jojo\test\encode\TestEncode.class
+github\jojo\test\loadbalance\LoadBalanceTest.class
+github\jojo\test\completable\testCompleteble.class
+github\jojo\test\buffer\TestBuffer.class

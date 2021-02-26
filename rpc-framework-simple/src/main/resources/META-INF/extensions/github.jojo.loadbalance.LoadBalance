@@ -1,0 +1,3 @@
+#loadBalance=github.jojo.loadbalance.loadbalancer.ConsistentHashLoadBalance
+#loadBalance=github.jojo.loadbalance.loadbalancer.RandomLoadBalance
+loadBalance=github.jojo.loadbalance.loadbalancer.RoundRobinLoadBalance

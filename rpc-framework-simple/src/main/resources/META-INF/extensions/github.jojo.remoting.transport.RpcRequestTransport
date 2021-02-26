@@ -1,0 +1,1 @@
+netty=github.jojo.remoting.transport.netty.client.NettyRpcClient
